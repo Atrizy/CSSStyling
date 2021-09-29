@@ -1,0 +1,52 @@
+#column-1 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  z-index: 1;
+  width: 1rem;
+  margin: 0;
+}
+
+#column-2 {
+  position: absolute;
+  top: 6.25em;
+  left: 0;
+  margin: 0;
+  width: 1rem;
+}
+
+#column-3 {
+  position: absolute;
+  top: 6.25em;
+  left: 25%;
+  margin: 0;
+  width: 1rem;
+}
+
+#column-4 {
+  position: absolute;
+  top: 6.25em;
+  left: 600px;
+  margin: 0;
+  width: 1rem;
+}
+
+#column-5 {
+  position: absolute;
+  top: 10.3vh;
+  left: 200px;
+  margin: 0;
+  width: 1rem;
+}
+
+#column-6 {
+  position: absolute;
+  top: 6.25em;
+  left: 35vh;
+  margin: 0;
+  width: 1rem;
+}
+
+div {
+  padding-left: 250px;
+}
